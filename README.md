@@ -36,14 +36,6 @@ make
 ./kilo <filename>  
 ```  
 
-### Optionally, install Kilo system-wide:  
-```sh  
-make install  
-```  
-Then restart your shell and run:  
-```sh  
-kilo <filename>  
-```  
 
 ## Windows Support 🖥️  
 Kilo relies on `termios` and `ioctl`, which do not work in the default Windows terminal. To run Kilo on Windows, you need to use **Cygwin** or **WSL (Windows Subsystem for Linux)**.  
