@@ -22,7 +22,7 @@ Kilo is designed to be lightweight and easy to modify. People are encouraged to 
 ## How to Install ⬇️  
 ### Clone this repo:  
 ```sh  
-git clone https://github.com/yourusername/kilo.git  
+git clone https://github.com/tejas-cs/Kilo-like-editor.git  
 cd kilo  
 ```  
 
