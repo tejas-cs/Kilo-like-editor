@@ -45,7 +45,7 @@ Kilo relies on `termios` and `ioctl`, which do not work in the default Windows t
 2. Open the Cygwin terminal.  
 3. Clone and compile Kilo:  
    ```sh  
-   git clone https://github.com/yourusername/kilo.git  
+   git clone https://github.com/tejas-cs/Kilo-like-editor.git
    cd kilo  
    make  
    ```  
